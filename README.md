@@ -19,7 +19,7 @@ all credit goes to the original font creators
 if you recognize your work here and want it removed or properly credited, please let me know ♡
 
 repo link:
-👉 https://github.com/nampling/assets.git
+👉 https://github.com/rotdaughter/assets
 
 ✿ usage note
 this repo is mainly for:
