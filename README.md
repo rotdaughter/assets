@@ -1,4 +1,4 @@
-🌷 nampling font collection
+🌷 neisha font collection
 
 💌 about
 this repo contains various fonts and visual assets that i’ve collected and use for my personal website + creative work.
